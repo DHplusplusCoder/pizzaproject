@@ -20,8 +20,17 @@ public class DrewRegister {
     //Zip Code
     //Account Type
     //Registration Fee
+    int ShowRegistrationPage()
+    {
+        //Spring will go here
+        //...
+    }
  
-    
+    int PushRegisteredAccountToServer()
+    {
+        //Spring will go here
+        //...
+    }
     
     int RegisteredOnMonday()
     {
